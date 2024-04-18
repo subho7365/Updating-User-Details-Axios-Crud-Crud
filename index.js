@@ -63,3 +63,5 @@ function deleteUser(id) {
       console.error("Error deleting user:", error);
     });
 }
+// Do not touch the code below
+module.exports = handleFormSubmit;
